@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Desmond Nyamador</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Desmond,
+        I love software,
+        The fish that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean,
+        Fun fact is that I have a secret aquarium and also a river.
+        And sometimes I even go fishing.I love software,
+        The fish that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean,
+        Fun fact is that I have a secret aquarium and also a river.
+        And sometimes I even go fishing.
+
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
